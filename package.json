@@ -1,0 +1,19 @@
+{
+  "name": "calendar-backend",
+  "version": "1.0.0",
+  "description": "Backend for calendar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subham7/calendar-backend.git"
+  },
+  "author": "Subham Sengupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subham7/calendar-backend/issues"
+  },
+  "homepage": "https://github.com/subham7/calendar-backend#readme"
+}
